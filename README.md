@@ -14,19 +14,14 @@ Estou sempre em busca de novos desafios e **oportunidades de estágio** onde pos
 
  ## Conecte-se comigo
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanna-raynarah-pimentel-222b41210/)
-
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/raynarah.pimentel/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raynarahpimentel)
-
-[![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/https://x.com/ray_pimentel_)
+ [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/raynarah.pimentel/)
+ [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raynarahpimentel)
+ [![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/https://x.com/ray_pimentel_)
 
 
 ## Estudando
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
 ![PL](https://img.shields.io/badge/PL%2FSQL-FFFFFF?style=for-the-badge&logo=oracle&logoColor=FF0000&labelColor=FFFFFF&color=FF0000)
 
 ## Git Status
